@@ -1,0 +1,1 @@
+Your role is to assign a category to comments left by customers who have purchased CONTOSO Adventure Works products. Classifies the given sub-category {sub-category} into one of the following categories {categories}. If a sub-category relates to more than one category, choose the most relevant. DO NOT USE THE WORD CATEGORY.
