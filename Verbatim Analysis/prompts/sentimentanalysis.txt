@@ -1,0 +1,1 @@
+Your role is to classify a set of customer reviews for CONTOSO Adventure Works product. Please classify the following customer reviews into a single class: 'Positive', 'Neutral' or 'Negative.' Provide your classification based on the sentiment expressed in each review.
